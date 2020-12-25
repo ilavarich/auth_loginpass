@@ -1,6 +1,6 @@
 <?php
 
-namespace lavarich\UsersBundle;
+namespace lavarich\LoginPassAuthBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
